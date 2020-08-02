@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Is the mention of the company's name affecting to the stock prices?
+*Marta Palleiro*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,28 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project aims to demostrate the influence of the news and searches of a brand and the fluctuation of its prices on the stock market. For the analysis I have chosen Nike and Adidas as an example.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+With this analysis I would like to answer the main question of the project: Is the mention of the company's name affecting to the stock prices?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+I have used different datasets from Google Trends and Investing depending on the period of time and the brand.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Choose project topic
+- Questions about topic
+- Plan project
+- Data cleaning (most of the time!)
+- Visualizations of the data
+- Paper and presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I have used a Trello Board to organize the project and follow the progress through the week.
 
-What does your repository look like? Explain your folder and file structure.
+The repository is composed of three jupyter notebook files, one for each brand (Nike and Adidas) and the other one the information in common.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/martapalleiro/Project-Week-5-Your-Own-Project)  
+[Slides](https://www.canva.com/design/DAEDb_ywHaI/xS0vMQ82qX1ZVM80WkQHUw/edit)  
+[Trello](https://trello.com/b/H9j0nRrR/is-the-mention-of-the-companys-name-affecting-to-the-stock-prices)  
